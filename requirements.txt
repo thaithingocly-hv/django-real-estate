@@ -1,0 +1,14 @@
+Django
+django-mathfilters
+django-autoslug
+djangorestframework
+django-environ
+django-filter
+django-countries
+django-phonenumber-field
+phonenumbers    
+Pillow
+psycopg2-binary
+flake8
+black
+isort
