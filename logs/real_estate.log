@@ -1,0 +1,11 @@
+2026-02-28 10:51:25,520 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 10:52:34,791 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 10:54:06,600 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 10:54:31,144 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 10:59:07,144 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 11:01:47,811 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 11:03:33,215 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 11:19:14,389 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 11:19:18,614 django.request WARNING  Not Found: /
+2026-02-28 11:19:18,715 django.request WARNING  Not Found: /favicon.ico
+2026-02-28 11:23:30,296 django.request WARNING  Not Found: /abdckkdfjsladfj
