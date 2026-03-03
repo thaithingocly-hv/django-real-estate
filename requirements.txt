@@ -1,14 +1,32 @@
+# core
 Django
 django-mathfilters
 django-autoslug
+
+#API
 djangorestframework
+
+#
 django-environ
+
+# Utilities
 django-filter
 django-countries
 django-phonenumber-field
 phonenumbers    
+
+# Image processing
 Pillow
+
+# Database
 psycopg2-binary
+
+# Linting and formatting
 flake8
 black
 isort
+
+# Authentication API
+djoser
+djangorestframework-simplejwt
+PyJWT

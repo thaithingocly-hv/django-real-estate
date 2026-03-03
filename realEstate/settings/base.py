@@ -1,23 +1,23 @@
-import environ # Ly-27.02.2026
+import environ  # Ly-27.02.2026
 
 from pathlib import Path
 
-env = environ.Env(DEBUG=(bool, False)) # Ly-27.02.2026
+env = environ.Env(DEBUG=(bool, False))  # Ly-27.02.2026
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
-BASE_DIR = Path(__file__).resolve().parent.parent.parent # Ly-28.02.2026
+BASE_DIR = Path(__file__).resolve().parent.parent.parent  # Ly-28.02.2026
 
-environ.Env.read_env(BASE_DIR / ".env") # Ly-27.02.2026
+environ.Env.read_env(BASE_DIR / ".env")  # Ly-27.02.2026
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = env("SECRET_KEY") # Ly-27.02.2026
+SECRET_KEY = env("SECRET_KEY")  # Ly-27.02.2026
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = env("DEBUG") # Ly-27.02.2026
+DEBUG = env("DEBUG")  # Ly-27.02.2026
 
-ALLOWED_HOSTS = env("ALLOWED_HOSTS").split(" ") # Ly-27.02.2026
+ALLOWED_HOSTS = env("ALLOWED_HOSTS").split(" ")  # Ly-27.02.2026
 
 
 # Application definition
@@ -29,16 +29,18 @@ DJANGO_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
-    "django.contrib.sites", # Ly-27.02.2026
+    "django.contrib.sites",  # Ly-27.02.2026
 ]
 
-SITE_ID = 1 # Ly-27.02.2026
+SITE_ID = 1  # Ly-27.02.2026
 
 THIRD_PARTY_APPS = [
     "rest_framework",
     "django_filters",
     "django_countries",
     "phonenumber_field",
+    "djoser",
+    "rest_framework_simplejwt",
 ]
 
 LOCAL_APPS = ["apps.common", "apps.users", "apps.profiles", "apps.ratings"]
@@ -105,7 +107,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = "en-us"
 
-TIME_ZONE = "'Asia/Ho_Chi_Minh" # Ly-27.02.2026
+TIME_ZONE = "Asia/Ho_Chi_Minh"  # Ly-27.02.2026
 
 USE_I18N = True
 
@@ -116,15 +118,56 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/5.2/howto/static-files/
 
 STATIC_URL = "/staticfiles/"
-STATIC_ROOT = BASE_DIR / "staticfiles" # Ly-28.02.2026
-STATICFILES_DIRS = [] # Ly-28.02.2026
-MEDIA_URL = "/mediafiles/" 
-MEDIA_ROOT = BASE_DIR / "mediafiles" # Ly-28.02.2026
+STATIC_ROOT = BASE_DIR / "staticfiles"  # Ly-28.02.2026
+STATICFILES_DIRS = []  # Ly-28.02.2026
+MEDIA_URL = "/mediafiles/"
+MEDIA_ROOT = BASE_DIR / "mediafiles"  # Ly-28.02.2026
 
 # Default primary key field type
 # https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
+
+AUTH_USER_MODEL = "users.User"  # Ly-02.03.2026
+
+REST_FRAMEWORK = {
+    "DEFAULT_AUTHENTICATION_CLASSES": (
+        "rest_framework_simplejwt.authentication.JWTAuthentication",
+    ),
+}
+
+from datetime import timedelta
+SIMPLE_JWT = {
+    "AUTH_HEADER_TYPES": (
+        "Bearer",
+        "JWT",
+    ),
+    'ACCESS_TOKEN_LIFETIME': timedelta(minutes=120),  # Ly-02.03.2026
+    'REFRESH_TOKEN_LIFETIME': timedelta(days=1),  # Ly-02.03.2026
+    'SIGNING_KEY': env('SIGNING_KEY'),  # Ly-02.03.2026
+    'AUTH_HEADER_NAME': 'HTTP_AUTHORIZATION',  # Ly-02.03.2026
+    'AUTH_TOKEN_CLASSES': ('rest_framework_simplejwt.tokens.AccessToken',),  # Ly-02.03.2026
+}
+
+DJOSER = {
+    'LOGIN_FIELD': 'email',
+    'USER_CREATE_PASSWORD_RETYPE': True,
+    'USERNAME_CHANGED_EMAIL_CONFIRMATION': True,
+    'PASSWORD_CHANGED_EMAIL_CONFIRMATION': True,
+    'SEND_CONFIRMATION_EMAIL': True,
+    'PASSWORD_RESET_CONFIRM_URL': 'password/reset/confirm/{uid}/{token}',
+    'SET_PASSWORD_RETYPE': True,
+    'PASSWORD_RESET_CONFIRM_RETYPE': True,
+    'USERNAME_RESET_CONFIRM_URL': 'email/reset/confirm/{uid}/{token}',
+    'ACTIVATION_URL': 'activate/{uid}/{token}',
+    'SEND_ACTIVATION_EMAIL': True,
+    'SERIALIZERS': {
+        'user_create': 'apps.users.serializers.UserCreateSerializer',
+        'user': 'apps.users.serializers.UserSerializer',
+        'current_user': 'apps.users.serializers.UserSerializer',
+        'user_delete': 'djoser.serializers.UserDeleteSerializer',
+    },
+}
 
 import logging
 import logging.config
@@ -133,42 +176,46 @@ from django.utils.log import DEFAULT_LOGGING
 
 logger = logging.getLogger(__name__)
 
-LOG_LEVEL = "INFO" # Ly-27.02.2026
+LOG_LEVEL = "INFO"  # Ly-27.02.2026
 
-logging.config.dictConfig({
-    "version": 1,
-    "disable_existing_loggers": False,
-    "formatters": {
-       "console": {
-            "format": "%(asctime)s %(name)-12s %(levelname)-8s %(message)s",
-            
+logging.config.dictConfig(
+    {
+        "version": 1,
+        "disable_existing_loggers": False,
+        "formatters": {
+            "console": {
+                "format": "%(asctime)s %(name)-12s %(levelname)-8s %(message)s",
+            },
+            "file": {
+                "format": "%(asctime)s %(name)-12s %(levelname)-8s %(message)s",
+            },
+            "django.server": DEFAULT_LOGGING["formatters"]["django.server"],
         },
-       "file": {
-            "format": "%(asctime)s %(name)-12s %(levelname)-8s %(message)s",
+        "handlers": {
+            "console": {
+                "class": "logging.StreamHandler",
+                "formatter": "console",
+            },
+            "file": {
+                "level": "INFO",
+                "class": "logging.FileHandler",
+                "formatter": "file",
+                "filename": "logs/real_estate.log",
+            },
+            "django.server": DEFAULT_LOGGING["handlers"]["django.server"],
         },
-       "django.server": DEFAULT_LOGGING["formatters"]["django.server"],
-    },
-    "handlers": {
-        "console": {
-            "class": "logging.StreamHandler",
-            "formatter": "console",
+        "loggers": {
+            "": {
+                "handlers": ["console", "file"],
+                "level": "INFO",
+                "propagate": False,
+            },
+            "apps": {
+                "handlers": ["console"],
+                "level": "INFO",
+                "propagate": False,
+            },
+            "django.server": DEFAULT_LOGGING["loggers"]["django.server"],
         },
-        "file": {
-            "level": "INFO",
-            "class": "logging.FileHandler",
-            "formatter": "file",
-            "filename": "logs/real_estate.log",
-        },
-        "django.server": DEFAULT_LOGGING["handlers"]["django.server"],
-    },
-    "loggers": {
-        "": {"handlers": ["console", "file"],"level": "INFO","propagate": False,
-        },
-        "apps": {
-            "handlers": ["console"],
-            "level": "INFO",
-            "propagate": False,
-        },
-        "django.server": DEFAULT_LOGGING["loggers"]["django.server"],
-    },
-})
+    }
+)

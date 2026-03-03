@@ -1,23 +1,23 @@
-import environ # Ly-27.02.2026
+import environ  # Ly-27.02.2026
 
 from pathlib import Path
 
-env = environ.Env(DEBUG=(bool, False)) # Ly-27.02.2026
+env = environ.Env(DEBUG=(bool, False))  # Ly-27.02.2026
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
-environ.Env.read_env(BASE_DIR / ".env") # Ly-27.02.2026
+environ.Env.read_env(BASE_DIR / ".env")  # Ly-27.02.2026
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/5.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = env("SECRET_KEY") # Ly-27.02.2026
+SECRET_KEY = env("SECRET_KEY")  # Ly-27.02.2026
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = env("DEBUG") # Ly-27.02.2026
+DEBUG = env("DEBUG")  # Ly-27.02.2026
 
-ALLOWED_HOSTS = env("ALLOWED_HOSTS").split(" ") # Ly-27.02.2026
+ALLOWED_HOSTS = env("ALLOWED_HOSTS").split(" ")  # Ly-27.02.2026
 
 
 # Application definition
@@ -29,10 +29,10 @@ DJANGO_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
-    "django.contrib.sites", # Ly-27.02.2026
+    "django.contrib.sites",  # Ly-27.02.2026
 ]
 
-SITE_ID = 1 # Ly-27.02.2026
+SITE_ID = 1  # Ly-27.02.2026
 
 THIRD_PARTY_APPS = [
     "rest_framework",
@@ -110,7 +110,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = "en-us"
 
-TIME_ZONE = "'Asia/Ho_Chi_Minh" # Ly-27.02.2026
+TIME_ZONE = "'Asia/Ho_Chi_Minh"  # Ly-27.02.2026
 
 USE_I18N = True
 

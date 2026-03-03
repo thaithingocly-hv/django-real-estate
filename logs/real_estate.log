@@ -9,3 +9,368 @@
 2026-02-28 11:19:18,614 django.request WARNING  Not Found: /
 2026-02-28 11:19:18,715 django.request WARNING  Not Found: /favicon.ico
 2026-02-28 11:23:30,296 django.request WARNING  Not Found: /abdckkdfjsladfj
+2026-02-28 16:00:08,978 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:00:11,354 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:00:12,998 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:00:13,467 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:00:18,765 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:00:19,190 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:00:20,424 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:00:20,873 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:00:23,289 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:00:23,735 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:00:24,953 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:00:25,392 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:00:27,799 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:00:28,252 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:00:29,621 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:00:30,092 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:00:32,510 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:00:32,957 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:00:37,476 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:00:37,903 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:00:42,186 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:00:42,606 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:00:44,846 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:00:45,265 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:00:49,538 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:00:50,000 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:01:17,003 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:01:17,489 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:01:18,858 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:01:19,314 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:01:22,583 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:01:23,008 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:01:25,269 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:01:25,707 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:02:24,035 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:02:24,515 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:02:26,898 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:02:27,331 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:02:32,882 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:02:33,304 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:02:41,661 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:02:42,105 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:02:47,660 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:02:48,109 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:03:04,222 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:03:04,654 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:03:06,914 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:03:07,346 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:03:11,879 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:03:12,340 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:03:22,141 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:03:22,565 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:03:25,840 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:03:26,264 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:03:39,204 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:03:39,648 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:03:43,110 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:03:43,541 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:05:05,500 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:05:05,964 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:05:17,855 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:05:18,327 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:05:27,060 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:05:27,526 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:05:38,360 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:05:38,847 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:05:40,208 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:05:40,663 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:05:59,908 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:06:00,367 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:06:01,715 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:06:02,201 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:06:03,551 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:06:04,006 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:06:14,830 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\users\models.py changed, reloading.
+2026-02-28 16:06:15,271 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:21:40,993 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\realEstate\settings\base.py changed, reloading.
+2026-02-28 16:21:41,494 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-02-28 16:21:43,923 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\realEstate\settings\base.py changed, reloading.
+2026-03-01 16:16:23,431 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 16:16:25,405 django.request WARNING  Not Found: /
+2026-03-01 16:16:25,470 django.request WARNING  Not Found: /favicon.ico
+2026-03-01 16:25:59,858 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 16:26:01,797 django.request WARNING  Not Found: /
+2026-03-01 19:44:12,693 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 19:44:15,712 django.request WARNING  Not Found: /
+2026-03-01 19:48:17,086 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 19:48:19,638 django.request WARNING  Not Found: /
+2026-03-01 19:57:14,665 django.request WARNING  Not Found: /favicon.ico
+2026-03-01 20:14:48,448 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:14:48,971 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:14:51,246 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:14:51,758 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:14:55,272 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:14:55,762 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:14:58,019 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:14:58,491 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:14:59,734 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:15:00,197 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:15:03,526 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:15:04,068 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:15:05,331 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:15:05,804 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:15:11,142 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:15:11,617 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:15:13,879 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:15:14,392 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:15:15,640 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:15:16,142 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:15:18,412 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:15:18,869 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:15:20,114 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:15:20,604 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:15:30,005 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:15:30,469 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:15:34,767 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:15:35,245 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:15:38,517 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:15:39,036 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:15:40,288 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:15:40,799 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:15:43,076 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:15:43,541 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:15:44,772 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:15:45,243 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:15:56,704 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:15:57,186 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:15:58,413 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:15:58,873 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:16:05,234 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:16:05,702 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:16:08,967 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:16:09,439 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:16:11,697 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:16:12,189 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:16:17,506 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:16:17,975 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:16:22,266 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:16:22,762 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:16:23,992 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:16:24,465 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:16:27,758 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:16:28,217 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:16:34,554 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:16:35,044 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:16:37,312 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:16:37,782 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:18:12,394 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:18:12,861 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:18:16,143 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:18:16,615 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:18:20,921 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:18:21,376 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:29:54,595 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:29:55,070 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:29:57,322 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:29:57,785 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:30:09,222 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:30:09,706 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:30:11,986 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:30:12,471 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:30:14,737 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:30:15,196 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:30:18,493 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:30:18,950 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:30:22,235 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:30:22,708 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:30:32,106 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:30:32,556 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:30:44,997 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:30:45,481 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:30:48,775 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:30:49,259 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:31:02,761 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:31:03,220 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:31:06,490 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:31:06,978 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:31:40,924 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:31:41,402 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:31:45,709 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:31:46,213 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:31:47,467 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:31:47,949 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:31:59,377 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:31:59,878 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:32:39,981 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:32:40,456 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:32:53,942 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:32:54,422 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:32:55,658 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:32:56,125 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:33:22,850 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:33:23,366 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:33:24,604 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:33:25,075 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:33:31,410 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:33:31,876 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:33:34,141 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:33:34,608 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:33:35,846 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:33:36,329 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:34:11,421 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:34:11,914 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:34:20,280 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:34:20,748 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:34:35,214 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:34:35,704 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:34:37,970 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:34:38,446 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:34:45,798 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:34:46,281 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:34:51,608 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:34:52,101 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:34:54,354 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:34:54,841 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:35:25,681 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:35:26,152 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:35:28,420 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:35:28,899 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:35:33,221 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:35:33,696 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:35:42,076 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:35:42,558 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:35:43,781 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:35:44,246 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:35:56,688 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:35:57,179 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:35:59,455 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:35:59,949 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:36:03,240 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:36:03,697 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:36:04,956 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:36:05,455 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:36:07,741 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:36:08,221 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:36:10,480 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:36:10,944 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:36:13,222 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:36:13,672 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:37:54,290 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:37:54,806 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:37:57,087 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:37:57,570 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:38:03,924 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:38:04,389 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:38:06,688 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:38:07,175 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:38:09,441 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:38:09,917 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:38:28,541 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:38:29,018 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 20:38:38,423 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\apps\ratings\models.py changed, reloading.
+2026-03-01 20:38:38,907 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 21:51:33,035 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-01 21:51:35,450 django.request WARNING  Not Found: /
+2026-03-01 21:51:53,301 django.request ERROR    Internal Server Error: /supersecret/ratings/rating/
+Traceback (most recent call last):
+  File "C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\env\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+psycopg2.errors.UndefinedTable: relation "ratings_rating" does not exist
+LINE 1: SELECT COUNT(*) AS "__count" FROM "ratings_rating"
+                                          ^
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\env\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\env\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\env\Lib\site-packages\django\contrib\admin\options.py", line 719, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\env\Lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\env\Lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\env\Lib\site-packages\django\views\decorators\cache.py", line 80, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\env\Lib\site-packages\django\contrib\admin\sites.py", line 246, in inner
+    return view(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\env\Lib\site-packages\django\utils\decorators.py", line 48, in _wrapper
+    return bound_method(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\env\Lib\site-packages\django\utils\decorators.py", line 192, in _view_wrapper
+    result = _process_exception(request, e)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\env\Lib\site-packages\django\utils\decorators.py", line 190, in _view_wrapper
+    response = view_func(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\env\Lib\site-packages\django\contrib\admin\options.py", line 2024, in changelist_view
+    cl = self.get_changelist_instance(request)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\env\Lib\site-packages\django\contrib\admin\options.py", line 867, in get_changelist_instance
+    return ChangeList(
+           ^^^^^^^^^^^
+  File "C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\env\Lib\site-packages\django\contrib\admin\views\main.py", line 146, in __init__
+    self.get_results(request)
+  File "C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\env\Lib\site-packages\django\contrib\admin\views\main.py", line 313, in get_results
+    result_count = paginator.count
+                   ^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\env\Lib\site-packages\django\utils\functional.py", line 47, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+                                         ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\env\Lib\site-packages\django\core\paginator.py", line 110, in count
+    return c()
+           ^^^
+  File "C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\env\Lib\site-packages\django\db\models\query.py", line 606, in count
+    return self.query.get_count(using=self.db)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\env\Lib\site-packages\django\db\models\sql\query.py", line 646, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\env\Lib\site-packages\django\db\models\sql\query.py", line 628, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\env\Lib\site-packages\django\db\models\sql\compiler.py", line 1623, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\env\Lib\site-packages\django\db\backends\utils.py", line 122, in execute
+    return super().execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\env\Lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return self._execute_with_wrappers(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\env\Lib\site-packages\django\db\backends\utils.py", line 92, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\env\Lib\site-packages\django\db\backends\utils.py", line 100, in _execute
+    with self.db.wrap_database_errors:
+  File "C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\env\Lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\env\Lib\site-packages\django\db\backends\utils.py", line 105, in _execute
+    return self.cursor.execute(sql, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+django.db.utils.ProgrammingError: relation "ratings_rating" does not exist
+LINE 1: SELECT COUNT(*) AS "__count" FROM "ratings_rating"
+                                          ^
+
+2026-03-01 21:52:32,489 django.request WARNING  Not Found: /
+2026-03-02 16:24:41,084 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-02 16:27:17,154 django.utils.autoreload INFO     C:\Users\DELL\pythonFrameWork\django_ThaiThiNgocLy\estate-site\realEstate\settings\base.py changed, reloading.
+2026-03-02 16:27:18,708 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-02 16:27:59,923 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-02 16:28:02,528 django.request WARNING  Not Found: /
+2026-03-02 16:28:02,570 django.request WARNING  Not Found: /favicon.ico
+2026-03-02 16:32:57,683 django.request WARNING  Not Found: /
+2026-03-02 16:33:09,442 django.request WARNING  Not Found: /api/v1/auth/user
+2026-03-02 16:33:48,085 django.request WARNING  Unauthorized: /api/v1/auth/users/
+2026-03-02 16:40:59,071 django.request WARNING  Not Found: /api/v1/auth/activation/
+2026-03-02 16:40:59,217 django.request WARNING  Not Found: /favicon.ico
+2026-03-02 16:45:01,311 django.request WARNING  Unauthorized: /api/v1/auth/users/
+2026-03-02 22:41:31,722 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2026-03-02 22:41:35,021 django.request WARNING  Not Found: /
+2026-03-02 22:41:35,060 django.request WARNING  Not Found: /favicon.ico
+2026-03-02 22:44:17,582 django.request WARNING  Unauthorized: /api/v1/auth/users/
+2026-03-02 22:45:56,034 django.request WARNING  Unauthorized: /api/v1/auth/users/
+2026-03-02 22:46:44,188 django.request WARNING  Bad Request: /api/v1/auth/users/activation/
